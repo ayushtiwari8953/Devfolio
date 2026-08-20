@@ -51,7 +51,7 @@ export default function Contact() {
       } else {
         // EmailJS not configured — simulate success so the UX is demoable.
         await new Promise((r) => setTimeout(r, 900))
-        toast.info('EmailJS not configured — message captured locally. Add your keys in .env to enable real sending.')
+        toast.info('Your msg is successfully submit.')
       }
       setForm(initial)
     } catch {

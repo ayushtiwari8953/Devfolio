@@ -1,12 +1,12 @@
 {
   "profile": {
-    "name": "Aarav Sharma",
-    "firstName": "Aarav",
+    "name": "Ayush",
+    "firstName": "Ayush",
     "role": "Software Engineer",
     "tagline": "Full Stack Developer · Problem Solver · MERN & Java",
-    "location": "Bengaluru, India",
-    "email": "aarav.sharma.dev@gmail.com",
-    "phone": "+91 98765 43210",
+    "location": "Uttar Pradesh, India",
+    "email": "ayushti3148@gmail.com",
+    "phone": "+91 8953371855",
     "resumeUrl": "/resume.txt",
     "avatar": "AS",
     "typingPhrases": [
@@ -16,71 +16,151 @@
       "Problem Solver.",
       "Full Stack Developer."
     ],
-    "intro": "I'm a software engineer who loves crafting elegant, performant web experiences end-to-end — from pixel-perfect interfaces to resilient backends. I care about clean architecture, accessibility, and shipping products that feel effortless.",
+    "intro": "I'm Full Stack Developer, Java Developer, and Problem Solver with a passion for creating clean, efficient, and user-friendly web applications. I love solving challenging coding problems and building impactful software.",
     "careerObjective": "To leverage my full-stack expertise and problem-solving mindset to build impactful, scalable software at a product-driven company where engineering excellence meets real-world value.",
     "social": {
-      "github": "https://github.com/",
-      "linkedin": "https://linkedin.com/in/",
-      "leetcode": "https://leetcode.com/",
+      "github": "https://github.com/ayushtiwari8953",
+      "linkedin": "https://www.linkedin.com/in/ayush-tiwari-34525532a/",
+      "leetcode": "https://leetcode.com/u/Ayushtiwari31/",
       "gfg": "https://geeksforgeeks.org/",
-      "email": "mailto:aarav.sharma.dev@gmail.com"
+      "email": "ayushti3148@gmail.com"
     },
     "stats": [
-      { "label": "Projects Built", "value": 24, "suffix": "+" },
-      { "label": "Experience", "value": 2, "suffix": "+ yrs" },
-      { "label": "Technologies", "value": 18, "suffix": "+" },
-      { "label": "DSA Problems Solved", "value": 520, "suffix": "+" }
+      {
+        "label": "Projects Built",
+        "value": 24,
+        "suffix": "+"
+      },
+      {
+        "label": "Experience",
+        "value": 0,
+        "suffix": "+ yrs"
+      },
+      {
+        "label": "Technologies",
+        "value": 18,
+        "suffix": "+"
+      },
+      {
+        "label": "DSA Problems Solved",
+        "value": 300,
+        "suffix": "+"
+      }
     ]
   },
   "skills": [
     {
       "category": "Frontend",
       "items": [
-        { "name": "HTML5", "level": 95 },
-        { "name": "CSS3", "level": 92 },
-        { "name": "JavaScript", "level": 90 },
-        { "name": "React", "level": 88 },
-        { "name": "Tailwind CSS", "level": 92 }
+        {
+          "name": "HTML5",
+          "level": 95
+        },
+        {
+          "name": "CSS3",
+          "level": 92
+        },
+        {
+          "name": "JavaScript",
+          "level": 90
+        },
+        {
+          "name": "React",
+          "level": 88
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": 92
+        }
       ]
     },
     {
       "category": "Backend",
       "items": [
-        { "name": "Node.js", "level": 85 },
-        { "name": "Express.js", "level": 84 }
+        {
+          "name": "Node.js",
+          "level": 85
+        },
+        {
+          "name": "Express.js",
+          "level": 84
+        }
       ]
     },
     {
       "category": "Database",
       "items": [
-        { "name": "MongoDB", "level": 86 },
-        { "name": "MySQL", "level": 80 }
+        {
+          "name": "MongoDB",
+          "level": 86
+        },
+        {
+          "name": "MySQL",
+          "level": 80
+        }
       ]
     },
     {
       "category": "Programming",
       "items": [
-        { "name": "Java", "level": 88 },
-        { "name": "C++", "level": 82 },
-        { "name": "C", "level": 78 }
+        {
+          "name": "Java",
+          "level": 88
+        },
+        {
+          "name": "C++",
+          "level": 82
+        },
+        {
+          "name": "C",
+          "level": 78
+        },
+        {
+          "name": "python",
+          "level": 80
+        }
       ]
     },
     {
       "category": "Tools",
       "items": [
-        { "name": "Git", "level": 90 },
-        { "name": "GitHub", "level": 92 },
-        { "name": "VS Code", "level": 95 },
-        { "name": "Postman", "level": 88 }
+        {
+          "name": "Git",
+          "level": 90
+        },
+        {
+          "name": "GitHub",
+          "level": 92
+        },
+        {
+          "name": "VS Code",
+          "level": 95
+        },
+        {
+          "name": "Postman",
+          "level": 88
+        }
       ]
     },
     {
       "category": "Soft Skills",
       "items": [
-        { "name": "Leadership", "level": 85 },
-        { "name": "Communication", "level": 90 },
-        { "name": "Problem Solving", "level": 92 },
-        { "name": "Teamwork", "level": 90 }
+        {
+          "name": "Leadership",
+          "level": 85
+        },
+        {
+          "name": "Communication",
+          "level": 90
+        },
+        {
+          "name": "Problem Solving",
+          "level": 92
+        },
+        {
+          "name": "Teamwork",
+          "level": 90
+        }
       ]
     }
   ],
@@ -89,100 +169,155 @@
       "title": "TradeVerse",
       "category": "Full Stack",
       "description": "A real-time stock trading simulator with live market data, interactive charts, paper trading portfolios, and AI-assisted market insights.",
-      "technologies": ["React", "Node.js", "Express", "MongoDB", "WebSocket", "Chart.js"],
-      "github": "https://github.com/",
-      "demo": "https://example.com/",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "WebSocket",
+        "Chart.js"
+      ],
+      "github": "https://github.com/ayushtiwari8953/tradeverse",
+      "demo": " https://tradeverse-7exb.vercel.app/",
       "featured": true
     },
     {
       "title": "Meetly",
       "category": "Full Stack",
       "description": "A peer-to-peer video conferencing platform with screen sharing, in-call chat, scheduling, and JWT-secured rooms for up to 50 participants.",
-      "technologies": ["React", "WebRTC", "Socket.io", "Node.js", "MongoDB"],
-      "github": "https://github.com/",
-      "demo": "https://example.com/",
+      "technologies": [
+        "React",
+        "WebRTC",
+        "Socket.io",
+        "Node.js",
+        "MongoDB"
+      ],
+      "github": "https://github.com/ayushtiwari8953/meetly",
+      "demo": "https://meetly-4.onrender.com",
       "featured": true
     },
     {
-      "title": "AI Chat Application",
-      "category": "AI",
-      "description": "A context-aware conversational assistant with streaming responses, markdown rendering, session memory, and multi-model routing.",
-      "technologies": ["React", "Gemini API", "Tailwind", "Vite"],
-      "github": "https://github.com/",
-      "demo": "https://example.com/",
+      "title": "Extracker",
+      "category": "Full Stack",
+      "description": "A production-grade personal finance SaaS application built with the MERN stack (MongoDB, Express, React, Node).",
+      "technologies": [
+        "React",
+        "MongoDB",
+        "Node.js",
+        "Express",
+        "Tailwind",
+        "Vite"
+      ],
+      "github": "https://github.com/ayushtiwari8953/extracker",
+      "demo": "https://extracker-peach.vercel.app",
       "featured": true
     },
     {
-      "title": "Version Control System",
-      "category": "Systems",
-      "description": "A lightweight Git-like VCS implemented from scratch in Java, supporting commits, branches, merging, diffs, and a CLI interface.",
-      "technologies": ["Java", "CLI", "OOP", "File I/O"],
-      "github": "https://github.com/",
+      "title": "Resumepilot",
+      "category": "Full Stack",
+      "description": "An AI-powered Resume Builder and ATS Resume Analyzer built with React.js, Node.js, Express.js, MongoDB, and Google Gemini AI.",
+      "technologies": [
+        "React",
+        "MongoDB",
+        "Express",
+        "Node.js",
+        "Gemini API"
+      ],
+      "github": "https://github.com/ayushtiwari8953/Resumepilot",
       "demo": "https://github.com/",
-      "featured": false
+      "featured": true
     }
   ],
   "experience": [
     {
-      "role": "Software Engineer Intern",
-      "company": "Nimbus Labs",
-      "duration": "Jan 2025 — Present",
-      "location": "Bengaluru, India",
+      "role": "MERN Stack Intern",
+      "company": "GRasTech",
+      "duration": "July 2026 — Present",
+      "location": "Uttar Pradesh, India",
       "responsibilities": [
         "Built reusable React component library adopted across 4 product teams, cutting feature delivery time by 30%.",
         "Designed REST APIs in Node.js serving 50k+ daily requests with 99.9% uptime.",
-        "Optimized MongoDB queries and introduced Redis caching, reducing p95 latency by 45%.",
-        "Owned end-to-end features from spec to deployment in an Agile, CI/CD-driven workflow."
+        "Optimized MongoDB queries and introduced Redis caching, reducing p95 latency by 45%."
       ]
     },
     {
-      "role": "Full Stack Developer Intern",
-      "company": "Pixel Forge Studio",
-      "duration": "Jun 2024 — Dec 2024",
+      "role": "Open Source Contribute",
+      "duration": "Aug 2025 — Present",
       "location": "Remote",
       "responsibilities": [
-        "Developed client-facing dashboards in React with real-time analytics and role-based access.",
-        "Integrated third-party payment and email services; wrote integration tests for critical flows.",
-        "Collaborated with design to ship a design system that improved cross-product consistency."
+        "Contributed to open-source projects by fixing bugs and improving features.",
+        "Collaborated with developers using Git and GitHub workflow.",
+        "Created pull requests, reviewed code, and maintained documentation.",
+        "Worked with technologies like React, Node.js, JavaScript, and APIs."
       ]
     }
   ],
   "education": [
     {
       "degree": "B.Tech in Computer Science & Engineering",
-      "institution": "Indian Institute of Technology (IIT)",
-      "duration": "2022 — 2026",
-      "score": "CGPA 8.7 / 10",
+      "institution": "DR. A.P.J Abdul Kalam University",
+      "duration": "2023 — 2027",
+      "score": "CGPA 7+ / 10",
       "details": "Coursework: Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks, Software Engineering."
     },
     {
       "degree": "Intermediate (Class XII)",
-      "institution": "Delhi Public School",
-      "duration": "2020 — 2022",
-      "score": "96.2%",
-      "details": "Physics, Chemistry, Mathematics — CBSE board."
+      "institution": "SVM Inter College",
+      "duration": "2021 — 2022",
+      "score": "77.76%",
+      "details": "Physics, Chemistry, Mathematics — UpBoard ."
     },
     {
       "degree": "High School (Class X)",
-      "institution": "Delhi Public School",
-      "duration": "2018 — 2020",
-      "score": "95.4%",
-      "details": "CBSE board with distinction."
+      "institution": "SVM Inter College",
+      "duration": "2019 — 2020",
+      "score": "84.7%",
+      "details": "UpBoard with distinction."
     }
   ],
   "certificates": [
-    { "title": "Meta Front-End Developer", "issuer": "Coursera", "year": "2024", "url": "https://coursera.org/" },
-    { "title": "Full-Stack Web Development", "issuer": "The Odin Project", "year": "2023", "url": "https://theodinproject.com/" },
-    { "title": "Java Programming Masterclass", "issuer": "Udemy", "year": "2023", "url": "https://udemy.com/" },
-    { "title": "MongoDB Associate Developer", "issuer": "MongoDB University", "year": "2024", "url": "https://university.mongodb.com/" },
-    { "title": "Data Structures & Algorithms", "issuer": "GeeksforGeeks", "year": "2023", "url": "https://geeksforgeeks.org/" },
-    { "title": "Responsive Web Design", "issuer": "freeCodeCamp", "year": "2022", "url": "https://freecodecamp.org/" }
+    {
+      "title": "Meta Front-End Developer",
+      "issuer": "Coursera",
+      "year": "2024",
+      "url": "https://coursera.org/"
+    },
+    {
+      "title": "Full-Stack Web Development",
+      "issuer": "The Odin Project",
+      "year": "2023",
+      "url": "https://theodinproject.com/"
+    },
+    {
+      "title": "Java Programming Masterclass",
+      "issuer": "Udemy",
+      "year": "2023",
+      "url": "https://udemy.com/"
+    },
+    {
+      "title": "MongoDB Associate Developer",
+      "issuer": "MongoDB University",
+      "year": "2024",
+      "url": "https://university.mongodb.com/"
+    },
+    {
+      "title": "Data Structures & Algorithms",
+      "issuer": "GeeksforGeeks",
+      "year": "2023",
+      "url": "https://geeksforgeeks.org/"
+    },
+    {
+      "title": "Responsive Web Design",
+      "issuer": "freeCodeCamp",
+      "year": "2022",
+      "url": "https://freecodecamp.org/"
+    }
   ],
   "testimonials": [
     {
       "name": "Riya Mehta",
       "role": "Engineering Manager, Nimbus Labs",
-      "quote": "Aarav combines strong engineering instincts with genuine product sense. He shipped features our users love and raised the bar for code quality on the team."
+      "quote": "Ayush combines strong engineering instincts with genuine product sense. He shipped features our users love and raised the bar for code quality on the team."
     },
     {
       "name": "Karan Verma",
@@ -196,36 +331,70 @@
     }
   ],
   "faqs": [
-    { "q": "What's your preferred tech stack?", "a": "MERN (MongoDB, Express, React, Node) for full-stack work, Java for systems and DSA, and Tailwind for styling. I adapt to whatever the team uses." },
-    { "q": "Are you open to relocation / remote?", "a": "Yes to both. I'm based in Bengaluru and open to remote-first roles or relocation within India and abroad." },
-    { "q": "How can I contact you?", "a": "The fastest way is the contact form on this site or a direct email. I usually reply within a day." },
-    { "q": "Do you take freelance projects?", "a": "Occasionally, when the project is a good fit. Reach out with details and I'll let you know my availability." }
+    {
+      "q": "What's your preferred tech stack?",
+      "a": "MERN (MongoDB, Express, React, Node) for full-stack work, Java for systems and DSA, and Tailwind for styling. I adapt to whatever the team uses."
+    },
+    {
+      "q": "Are you open to relocation / remote?",
+      "a": "Yes to both. I'm based in Bengaluru and open to remote-first roles or relocation within India and abroad."
+    },
+    {
+      "q": "How can I contact you?",
+      "a": "The fastest way is the contact form on this site or a direct email. I usually reply within a day."
+    },
+    {
+      "q": "Do you take freelance projects?",
+      "a": "Occasionally, when the project is a good fit. Reach out with details and I'll let you know my availability."
+    }
   ],
   "githubStats": {
-    "username": "octocat",
-    "url": "https://github.com/octocat",
+    "username": "ayushtiwari8953",
+    "url": "https://github.com/ayushtiwari8953",
     "repos": 42,
-    "stars": 318,
-    "followers": 156,
-    "contributions": 1284
+    "contributions": 100
   },
   "leetcodeStats": {
-    "username": "leetcode",
-    "url": "https://leetcode.com/leetcode",
-    "solved": 520,
-    "easy": 210,
-    "medium": 240,
-    "hard": 70,
-    "ranking": "Top 8%"
+    "username": "Ayushtiwari31",
+    "url": "https://leetcode.com/u/Ayushtiwari31/",
+    "solved": 300,
+    "easy": 160,
+    "medium": 120,
+    "hard": 20,
+    "ranking": "#"
   },
   "navLinks": [
-    { "label": "Home", "id": "home" },
-    { "label": "About", "id": "about" },
-    { "label": "Skills", "id": "skills" },
-    { "label": "Projects", "id": "projects" },
-    { "label": "Experience", "id": "experience" },
-    { "label": "Education", "id": "education" },
-    { "label": "Certificates", "id": "certificates" },
-    { "label": "Contact", "id": "contact" }
+    {
+      "label": "Home",
+      "id": "home"
+    },
+    {
+      "label": "About",
+      "id": "about"
+    },
+    {
+      "label": "Skills",
+      "id": "skills"
+    },
+    {
+      "label": "Projects",
+      "id": "projects"
+    },
+    {
+      "label": "Experience",
+      "id": "experience"
+    },
+    {
+      "label": "Education",
+      "id": "education"
+    },
+    {
+      "label": "Certificates",
+      "id": "certificates"
+    },
+    {
+      "label": "Contact",
+      "id": "contact"
+    }
   ]
 }

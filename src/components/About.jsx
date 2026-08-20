@@ -23,10 +23,10 @@ function StatCard({ stat, index }) {
 }
 
 const infoCards = [
-  { Icon: Briefcase, label: 'Experience', value: '2+ Years' },
+  // { Icon: Briefcase, label: 'Experience', value: '2+ Years' },
   { Icon: Layers, label: 'Projects', value: '24+ Shipped' },
   { Icon: Cpu, label: 'Technologies', value: '18+ Tools' },
-  { Icon: Brain, label: 'DSA Solved', value: '520+' },
+  { Icon: Brain, label: 'DSA Solved', value: '300+' },
 ]
 
 export default function About() {
